@@ -1,2 +1,13 @@
-# Indicator-Control-PIC18F4580
-Embedded C project implementing vehicle indicator control (Left, Right, Hazard) using PIC18F4580 microcontroller with state machine and timing logic.
+Project: Indicator Control Module
+
+Microcontroller: PIC18F4580
+Language: Embedded C
+
+Features:
+- Left Indicator
+- Right Indicator
+- Hazard Mode
+- Toggle Logic
+- Blink Timing
+
+Demo Video: Included
